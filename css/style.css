@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+.header-wraper {
+    width: 100%;
+    height: 90px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    position: fixed;
+    align-items: center;
+    z-index: 50;
+    padding-left: 100px;
+    padding-top: 75px;
+    padding-right: 100px;
+}
+.navigation {
+    margin-left: 400px;
+}
+.flex-ul {
+    display: flex;
+}
+.nav-li {
+    margin-right: 40px;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    color:#3D37F1;
+}
+.section1 {
+    display: flex;
+}
