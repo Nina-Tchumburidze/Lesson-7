@@ -55,6 +55,10 @@
     display: flex;
     justify-content: center;
 }
+.waveme:hover {
+    background-color: blanchedalmond;
+    color: black;
+}
 .text-box {
     color: #FFFFFF;
     text-align: center;
